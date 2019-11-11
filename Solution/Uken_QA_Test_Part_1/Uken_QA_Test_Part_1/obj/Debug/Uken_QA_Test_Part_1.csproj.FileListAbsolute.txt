@@ -1,0 +1,6 @@
+c:\users\albert\documents\visual studio 2015\Projects\Uken_QA_Test_Part_1\Uken_QA_Test_Part_1\bin\Debug\Uken_QA_Test_Part_1.exe.config
+c:\users\albert\documents\visual studio 2015\Projects\Uken_QA_Test_Part_1\Uken_QA_Test_Part_1\bin\Debug\Uken_QA_Test_Part_1.exe
+c:\users\albert\documents\visual studio 2015\Projects\Uken_QA_Test_Part_1\Uken_QA_Test_Part_1\bin\Debug\Uken_QA_Test_Part_1.pdb
+c:\users\albert\documents\visual studio 2015\Projects\Uken_QA_Test_Part_1\Uken_QA_Test_Part_1\obj\Debug\Uken_QA_Test_Part_1.csprojResolveAssemblyReference.cache
+c:\users\albert\documents\visual studio 2015\Projects\Uken_QA_Test_Part_1\Uken_QA_Test_Part_1\obj\Debug\Uken_QA_Test_Part_1.exe
+c:\users\albert\documents\visual studio 2015\Projects\Uken_QA_Test_Part_1\Uken_QA_Test_Part_1\obj\Debug\Uken_QA_Test_Part_1.pdb
